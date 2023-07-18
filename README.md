@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaellitherland
-- 👀 I’m interested in drawing pictures of birds
-- 🌱 I’m currently learning c#, ruby, svelte, and drawing better pictures of birds
-- 💞️ I’m looking to collaborate on bird and nature-related art
+- 👀 I’m interested in Ruby, Python, and drawing and painting, especially birds and other nature scenes 
+- 🌱 I’m currently learning more about Ruby and Rails, and working on my art
+- 💞️ My full-time work and family keep me too busy to collaborate much, but feel free to reach out and say hi
 - 📫 How to reach me michael (dot) litherland (at) gmail
 
 <!---
